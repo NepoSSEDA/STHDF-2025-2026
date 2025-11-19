@@ -1,4 +1,5 @@
 # Smart TV Box Project
+## Autori: Bc. Oliver Hofer, Bc. Oleksandr Lypovetskyi
 
 ## 🧾 Popis
 Cieľom projektu Smart TV Box je vytvoriť zariadenie, ktoré umožní používateľom starších televízorov bez Smart TV funkcionality využívať operačný systém Android TV po jednoduchom pripojení zariadenia k televízoru.
@@ -34,18 +35,25 @@ Výsledkom projektu bude funkčný Smart TV Box, ktorý:
 - kombinuje PC komponenty s custom konštrukciou,
 - umiestený do dreveného púzdra a má v sebe 3D tlačené prvky.
 
+## 📰 Aktuálny stav
+
+### Update ku dňu 19. novembra 2025
+
+Bola kupená notebooková základová doska, ktorá okrem komponentov ako processor, RAM alebo integrovaná grafická karta disponuje vstupno-výstupnými rozhraniami ako:
+- Video rozhrania HDMI, VGA,
+- Ethernet rozhranie RJ45 pre pripojenie na Internet,
+- univerzálne rozhranie USB,
+- legacy vstupné rozhranie PS/2 pre staršie klavesnice alebo myši.
+
+![Základová doska](images/zakladova_doska.jpg)
+
 ## 📁 Štruktúra
 - `docs/` – dokumentácia
 - `src/` – zdrojový kód (ak existuje)
 - `tags.yaml` – metadáta
 - `meta.json` – pre AI, API alebo Pages
 
-## 🔗 Prepojenia
-Tento repozitár je súčasťou organizácie XYZ a patrí do vrstvy ABC.
-
-# KNIFE Overview
-
-Krátky popis repozitára a odkaz na web.
+## KNIFE Overview
 
 - 🌐 Web: https://knife-framework.github.io/knifes_overview/
 - 📚 Dokumentácia: `/docs/sk`
