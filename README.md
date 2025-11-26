@@ -18,7 +18,7 @@ Do zariadenia budú tiež nainštalované:
 ### Konštrukcia púzdra
 
 Hardvérové komponenty budú umiestnené do dreveného púzdra, ktoré bude:
-- vyrobené frézovaním,
+- vyrobené z preglejky,
 - optimalizované pre prístup k portom a ventiláciu,
 - esteticky doladené na domáce multimediálne použitie.
 
